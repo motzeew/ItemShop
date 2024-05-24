@@ -1,12 +1,12 @@
-CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
-Pickaxe_ID_202_AshtonBoardwalk, 800
-Glider_ID_141_AshtonBoardwalk, 1000
+CID_653_Athena_Commando_F_UglySweaterFrozen, 1500
+Pickaxe_ID_015_HolidayCandyCane, 1300
+Glider_ID_206_Donut, 1000
 na
 na
 na
-EID_ElectroSwing, 500
-CID_655_Athena_Commando_F_Barefoot, 1200
-Pickaxe_ID_092_Bling, 500
-CID_524_Athena_Commando_F_FutureBikerWhite, 1200
-Pickaxe_ID_140_StreetGoth, 800
-CID_495_Athena_Commando_F_MechPilotShark, 800
+EID_IndianDance, 800
+CID_188_Athena_Commando_F_StreetRacerWhite, 1600
+Pickaxe_ID_339_CODSquadHoodie, 500
+CID_762_Athena_Commando_M_BrightGunnerSpy, 1200
+BID_256_ShatterFly, 1000
+CID_457_Athena_Commando_F_SpaceGirl, 1400
